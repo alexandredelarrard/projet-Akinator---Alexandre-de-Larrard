@@ -6,4 +6,4 @@ The decision tree is built on the entropy criterion with a binary split for each
 
 The presentation of the project is in French with more details of the tree implementation in C++ can be found in projet C++ - Akinator - Alexandre de Larrard.pdf)
 
-![alt text](https://github.com/alexandredelarrard/projet-Akinator---Alexandre-de-Larrard/akinator.png)
+![alt text](https://github.com/alexandredelarrard/projet-Akinator---Alexandre-de-Larrard/blob/master/akinator.PNG)
