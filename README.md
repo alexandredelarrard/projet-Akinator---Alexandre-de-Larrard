@@ -1,4 +1,4 @@
-# projet-Akinator---Alexandre-de-Larrard
+# Akinator - Genius who guess your mind
 
 This is the implementation of the game Akinator in C++. 
 The purpose of the game is to guess the personnage you are thinking of, based on a decision tree. 
